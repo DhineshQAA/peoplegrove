@@ -1,0 +1,418 @@
+2023-10-02T15:58:50,775 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:01:09,158 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:03:35,477 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:07:05,587 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:07:08,421 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:07:10,826 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:07:10,832 [main] INFO  (Log.java:22) - Method to click on All Hamburger Menu
+2023-10-02T16:07:10,943 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:07:11,170 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:08:00,450 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:08:53,820 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:08:56,408 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:08:58,593 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:27:17,102 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:27:20,873 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:27:23,560 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:30:48,735 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:30:51,642 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:30:54,044 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:30:54,045 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:30:54,062 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:30:54,565 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:31:18,002 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:31:21,077 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:31:23,278 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:31:23,279 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:31:46,148 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:34:52,934 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:34:56,271 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:34:58,568 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:34:58,570 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:34:58,686 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:34:59,034 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:39:53,906 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:39:56,857 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:39:58,991 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:39:58,994 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:40:02,758 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:40:03,195 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:42:03,513 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:42:10,131 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:42:15,534 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:42:15,537 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:42:17,427 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:42:17,924 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:42:35,734 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:42:39,680 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:44:15,230 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:44:32,034 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:44:34,686 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:44:36,972 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:44:36,981 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:45:07,336 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:45:07,823 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:48:56,040 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:48:59,367 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:49:01,508 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:49:01,514 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:49:05,011 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:49:05,344 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:50:13,161 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:50:15,808 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:50:17,872 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:50:17,874 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:50:20,852 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:50:22,027 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:51:52,744 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:51:55,207 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:51:57,300 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:51:57,303 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:52:02,437 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:52:02,784 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:53:54,320 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:53:56,898 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:53:58,967 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:53:58,973 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:54:04,116 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:54:04,417 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:55:13,830 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:55:24,172 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:55:27,115 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:55:29,453 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:55:29,459 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:55:33,558 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T16:55:33,730 [main] INFO  (Log.java:22) - Test Ended 
+2023-10-02T16:55:33,734 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:55:33,736 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:55:47,120 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:55:50,067 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:55:52,170 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:55:52,172 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:55:55,767 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T16:55:55,922 [main] INFO  (Log.java:22) - Test Ended 
+2023-10-02T16:55:55,926 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:55:55,927 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T16:57:22,347 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T16:57:24,972 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T16:57:27,082 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T16:57:27,085 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T16:57:30,335 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T16:57:30,474 [main] INFO  (Log.java:22) - Test Ended 
+2023-10-02T16:57:30,481 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T16:57:30,483 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:17:19,609 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:20:00,888 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:21:08,719 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:26:16,903 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:27:23,574 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:29:28,337 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:29:30,950 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:29:33,448 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:29:33,454 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:29:37,907 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:29:38,049 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:29:38,174 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:29:38,580 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:31:14,239 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:31:18,470 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:31:20,927 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:31:20,934 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:31:25,687 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:31:25,834 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:31:25,914 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:31:26,283 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:32:49,731 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:32:53,401 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:32:55,577 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:32:55,586 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:32:59,746 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:32:59,884 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:33:05,726 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:33:05,971 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:34:21,468 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:34:24,166 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:34:26,510 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:34:26,515 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:34:30,769 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:34:30,914 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:34:39,614 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:34:47,924 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:36:20,086 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:36:22,769 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:36:25,404 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:36:25,414 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:36:29,323 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:36:29,463 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:36:37,676 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:36:37,759 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:36:38,943 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:39:16,901 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:39:19,629 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:39:22,016 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:39:22,025 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:39:26,093 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:39:26,241 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:39:34,487 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:39:39,776 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:42:52,685 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:42:55,422 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:42:57,891 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:42:57,898 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:43:01,576 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:43:01,714 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:43:09,693 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:43:09,760 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:43:10,093 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:47:03,525 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:47:06,280 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:47:08,345 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:47:08,356 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:47:11,899 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:47:12,038 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:47:21,102 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:47:21,468 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:47:46,458 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:47:49,205 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:47:51,154 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:47:51,160 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:47:54,973 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:47:55,109 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:48:04,931 [main] INFO  (Log.java:22) - Test Ended 
+2023-10-02T17:48:04,938 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:48:04,941 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T17:54:27,770 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T17:54:30,754 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T17:54:33,157 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T17:54:33,162 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T17:54:36,976 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T17:54:37,130 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T17:54:48,700 [main] INFO  (Log.java:22) - Test Ended 
+2023-10-02T17:54:48,707 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T17:54:48,709 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T18:21:34,866 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T18:21:37,725 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T18:21:40,219 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T18:21:40,225 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T18:21:43,624 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T18:21:43,759 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T18:22:46,708 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T18:22:49,390 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T18:22:51,578 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T18:22:51,584 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T18:22:55,759 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T18:22:55,921 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T18:23:56,230 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T18:23:56,250 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T18:53:10,536 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T18:53:13,913 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T18:53:16,593 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T18:53:16,599 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T18:53:20,226 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T18:53:20,361 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T18:53:30,130 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T18:53:30,364 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T18:54:23,297 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T18:54:25,902 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T18:54:28,143 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T18:54:28,147 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T18:54:32,414 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T18:54:32,552 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T18:55:14,050 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T18:55:14,265 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T18:59:42,917 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T18:59:45,815 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T18:59:48,242 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T18:59:48,248 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T18:59:51,771 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T18:59:51,905 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:00:48,619 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:00:51,375 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:00:59,305 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:00:59,312 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:01:01,340 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:01:01,363 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:01:10,185 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:01:10,355 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:01:59,798 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:02:00,040 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:03:10,012 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:03:12,569 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:03:14,710 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:03:14,713 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:03:18,616 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:03:18,760 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:03:24,590 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:03:24,811 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:03:55,548 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:03:58,005 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:04:00,138 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:04:00,145 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:04:03,976 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:04:04,113 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:04:09,512 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:04:09,705 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:05:02,967 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:05:05,559 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:05:07,736 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:05:07,736 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:05:11,713 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:05:11,855 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:05:17,103 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:05:17,322 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:10:41,867 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:10:51,833 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:10:54,366 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:10:56,483 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:10:56,490 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:11:00,520 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:11:00,656 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:11:06,370 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:11:06,589 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:11:25,808 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:11:28,242 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:11:30,512 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:11:30,517 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:11:34,792 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:11:34,934 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:11:40,483 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:11:40,717 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:11:57,017 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:11:59,223 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:12:03,988 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:12:03,991 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:12:07,851 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:12:08,000 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:12:13,656 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:12:13,865 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:13:30,343 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:13:32,789 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:13:34,926 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:13:34,933 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:13:39,230 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:13:39,407 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:13:49,821 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:13:50,202 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:15:25,013 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:15:27,434 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:15:29,746 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:15:29,751 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:15:33,732 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:15:33,881 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:15:39,929 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:15:39,981 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:15:40,192 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:17:09,031 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:17:11,676 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:17:14,096 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:17:14,102 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:17:17,923 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:17:18,071 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:17:23,072 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:17:23,139 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:17:23,331 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:18:14,039 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:18:16,526 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:18:18,559 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:18:18,562 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:18:22,355 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:18:22,507 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:18:29,324 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:18:29,401 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:18:29,812 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:18:52,987 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:20:06,092 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:20:08,676 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:20:10,730 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:20:10,730 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:20:14,805 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:20:14,954 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:20:30,764 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:21:31,133 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:21:31,617 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:21:54,670 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:21:57,187 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:21:59,580 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:21:59,584 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:22:04,811 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:22:04,948 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:22:20,691 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:22:47,613 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:22:50,308 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:22:52,387 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:22:52,392 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:22:56,088 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:22:56,236 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:23:11,404 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:24:11,957 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:24:12,452 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:26:23,307 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:26:25,817 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:26:27,884 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:26:27,888 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:26:31,154 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:26:31,305 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:26:47,019 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:26:47,470 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:26:48,365 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:27:17,405 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:27:20,115 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:27:22,267 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:27:22,272 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:27:26,329 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:27:26,493 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:27:42,151 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:27:42,612 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:27:43,669 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:30:27,002 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:30:29,672 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:30:31,690 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:30:31,690 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:30:36,303 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:30:36,476 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:30:52,830 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:30:53,282 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:30:54,161 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:33:06,073 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:33:08,764 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:33:10,821 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:33:10,831 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:33:14,845 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:33:14,992 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:33:31,228 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:34:31,547 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:34:31,701 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:37:47,953 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:37:50,731 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:37:53,488 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:37:53,491 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:37:57,954 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:37:58,132 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:38:13,762 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:38:15,649 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:38:16,136 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:40:32,676 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:40:35,544 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:40:37,655 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:40:37,659 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:40:42,452 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:40:42,601 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:40:58,451 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:42:01,363 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:42:01,858 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:42:53,604 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:42:56,331 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:42:58,352 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:42:58,359 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:43:02,422 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:43:02,572 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:43:12,941 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:44:14,953 [main] INFO  (Log.java:22) - Inside After Method
+2023-10-02T19:44:15,395 [main] INFO  (Log.java:22) - Inside After Class
+2023-10-02T19:44:37,376 [main] INFO  (Log.java:22) - Inside before method 
+2023-10-02T19:44:39,923 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2023-10-02T19:44:42,091 [main] INFO  (Log.java:22) - Test Started 
+2023-10-02T19:44:42,097 [main] INFO  (Log.java:22) - Method to login to the people groove career app
+2023-10-02T19:44:46,163 [main] INFO  (Log.java:22) - Method to scroll down
+2023-10-02T19:44:46,314 [main] INFO  (Log.java:22) - Method to navigate to career page and jobcard
+2023-10-02T19:44:56,924 [main] INFO  (Log.java:22) - Method to scroll down
