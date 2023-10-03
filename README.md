@@ -8,13 +8,11 @@ Steps to import the Project :
 
 Pre-requisites : Java JDK1.8, Maven,TestNG & Eclipse IDE(Mars and above) should be already installed in the system.
 
-Clone the project from github or or greenhouse url into local workspace
+Clone the project from github
 
 Open Eclipse, File -> import -> Maven -> Existing projects in to workspace -> select the project cloned
 
-If you see any error after import, right click on the project ->Maven -> Update Project
-
-Open file TestNG.xml file and right click -> run as -> TestNG test
+If you see any error after import, right click on the project ->Maven -> Update Project and run the tests
 
 Automated browser will open and testcases will be executed.
 
